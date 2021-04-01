@@ -8,3 +8,5 @@ The image showing the radio sky above LOFAR on 2018-11-07 at 19:55:09.3 was cali
 By comparing the position of the sources in the image with their true celestial coordinates, we are able to identify position shifts and reconstruct an ionospheric wave. Around 1050 radio sources were simulated from catalog data with phase errors induced by a typical ionospheric wave (mTID) over the LOFAR core for all individual antennas in all directions, including a realistic noise level. We were able to reconstruct the apparent position shifts induced by these phase errors for half of the sources in a 2-minute snapshot image, clearly demonstrating the capability to detect such an ionospheric wave with AARTFAAC. 
 
 The ability to monitor the ionosphere in real time is particularly useful for telecommunication and satellite applications, such as GPS and GNSS, and if implemented successfully would allow AARTFAAC to be used as an ionospheric instrument.
+
+https://www.astron.nl/dailyimage/main.php?date=20190819
